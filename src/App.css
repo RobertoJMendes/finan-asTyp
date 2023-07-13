@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color: darkblue;
+  height: 150px;
+  text-align: center;
+}
+.headerText {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  padding-top: 30px;
+}
+.body {
+  max-width: 1000px;
+  margin: 0 auto 1rem auto;
+  
+}

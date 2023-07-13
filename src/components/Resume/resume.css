@@ -1,0 +1,15 @@
+.resume {
+    flex: 1;
+    
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    color: #888;
+    margin-bottom: 0.5rem;
+}
+.info {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
